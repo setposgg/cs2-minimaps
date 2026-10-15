@@ -1,0 +1,192 @@
+{
+  "mirage": {
+    "name": "Mirage",
+    "url": "https://setpos.gg/mirage",
+    "calibration": {
+      "posX": -3230,
+      "posY": 1713,
+      "scale": 5,
+      "radarSize": 1024
+    },
+    "files": {
+      "preview": "maps/mirage/mirage-preview.png",
+      "dark": {
+        "svg": "maps/mirage/mirage.svg",
+        "png": {
+          "1024": "maps/mirage/mirage-1024.png",
+          "2048": "maps/mirage/mirage-2048.png"
+        }
+      },
+      "light": {
+        "svg": "maps/mirage/mirage-light.svg",
+        "png": {
+          "1024": "maps/mirage/mirage-light-1024.png",
+          "2048": "maps/mirage/mirage-light-2048.png"
+        }
+      }
+    }
+  },
+  "dust2": {
+    "name": "Dust II",
+    "url": "https://setpos.gg/dust2",
+    "calibration": {
+      "posX": -2476,
+      "posY": 3239,
+      "scale": 4.4,
+      "radarSize": 1024
+    },
+    "files": {
+      "preview": "maps/dust2/dust2-preview.png",
+      "dark": {
+        "svg": "maps/dust2/dust2.svg",
+        "png": {
+          "1024": "maps/dust2/dust2-1024.png",
+          "2048": "maps/dust2/dust2-2048.png"
+        }
+      },
+      "light": {
+        "svg": "maps/dust2/dust2-light.svg",
+        "png": {
+          "1024": "maps/dust2/dust2-light-1024.png",
+          "2048": "maps/dust2/dust2-light-2048.png"
+        }
+      }
+    }
+  },
+  "anubis": {
+    "name": "Anubis",
+    "url": "https://setpos.gg/anubis",
+    "calibration": {
+      "posX": -2796,
+      "posY": 3328,
+      "scale": 5.22,
+      "radarSize": 1024
+    },
+    "files": {
+      "preview": "maps/anubis/anubis-preview.png",
+      "dark": {
+        "svg": "maps/anubis/anubis.svg",
+        "png": {
+          "1024": "maps/anubis/anubis-1024.png",
+          "2048": "maps/anubis/anubis-2048.png"
+        }
+      },
+      "light": {
+        "svg": "maps/anubis/anubis-light.svg",
+        "png": {
+          "1024": "maps/anubis/anubis-light-1024.png",
+          "2048": "maps/anubis/anubis-light-2048.png"
+        }
+      }
+    }
+  },
+  "inferno": {
+    "name": "Inferno",
+    "url": "https://setpos.gg/inferno",
+    "calibration": {
+      "posX": -2087,
+      "posY": 3870,
+      "scale": 4.9,
+      "radarSize": 1024
+    },
+    "files": {
+      "preview": "maps/inferno/inferno-preview.png",
+      "dark": {
+        "svg": "maps/inferno/inferno.svg",
+        "png": {
+          "1024": "maps/inferno/inferno-1024.png",
+          "2048": "maps/inferno/inferno-2048.png"
+        }
+      },
+      "light": {
+        "svg": "maps/inferno/inferno-light.svg",
+        "png": {
+          "1024": "maps/inferno/inferno-light-1024.png",
+          "2048": "maps/inferno/inferno-light-2048.png"
+        }
+      }
+    }
+  },
+  "ancient": {
+    "name": "Ancient",
+    "url": "https://setpos.gg/ancient",
+    "calibration": {
+      "posX": -2953,
+      "posY": 2164,
+      "scale": 5,
+      "radarSize": 1024
+    },
+    "files": {
+      "preview": "maps/ancient/ancient-preview.png",
+      "dark": {
+        "svg": "maps/ancient/ancient.svg",
+        "png": {
+          "1024": "maps/ancient/ancient-1024.png",
+          "2048": "maps/ancient/ancient-2048.png"
+        }
+      },
+      "light": {
+        "svg": "maps/ancient/ancient-light.svg",
+        "png": {
+          "1024": "maps/ancient/ancient-light-1024.png",
+          "2048": "maps/ancient/ancient-light-2048.png"
+        }
+      }
+    }
+  },
+  "nuke": {
+    "name": "Nuke",
+    "url": "https://setpos.gg/nuke",
+    "calibration": {
+      "posX": -3453,
+      "posY": 2887,
+      "scale": 7,
+      "radarSize": 1024
+    },
+    "note": "Upper level only; no lower-level drawing is included.",
+    "files": {
+      "preview": "maps/nuke/nuke-preview.png",
+      "dark": {
+        "svg": "maps/nuke/nuke.svg",
+        "png": {
+          "1024": "maps/nuke/nuke-1024.png",
+          "2048": "maps/nuke/nuke-2048.png"
+        }
+      },
+      "light": {
+        "svg": "maps/nuke/nuke-light.svg",
+        "png": {
+          "1024": "maps/nuke/nuke-light-1024.png",
+          "2048": "maps/nuke/nuke-light-2048.png"
+        }
+      }
+    }
+  },
+  "cache": {
+    "name": "Cache",
+    "url": "https://setpos.gg/cache",
+    "calibration": {
+      "posX": -2000,
+      "posY": 3250,
+      "scale": 5.5,
+      "radarSize": 1024
+    },
+    "files": {
+      "preview": "maps/cache/cache-preview.png",
+      "dark": {
+        "svg": "maps/cache/cache.svg",
+        "png": {
+          "1024": "maps/cache/cache-1024.png",
+          "2048": "maps/cache/cache-2048.png"
+        }
+      },
+      "light": {
+        "svg": "maps/cache/cache-light.svg",
+        "png": {
+          "1024": "maps/cache/cache-light-1024.png",
+          "2048": "maps/cache/cache-light-2048.png"
+        }
+      }
+    }
+  }
+}
