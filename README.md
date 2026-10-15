@@ -91,23 +91,19 @@ point = world_to_image(0, 0, maps["mirage"]["calibration"])
 # (646.0, 342.6)
 ```
 
-## License and credit
+## Credit
 
-The minimaps and calibration data are shared under
-[Creative Commons Attribution 4.0 International](LICENSE). You can use and adapt them,
-including commercially. Keep the credit and license link, and indicate any changes.
-Ready-to-paste Markdown:
+Use them for anything, including commercial work, and change them however you like.
+All we ask is a credit:
 
 ```markdown
-Minimaps by setpos.gg (https://setpos.gg), licensed under
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Minimaps by [setpos.gg](https://setpos.gg)
 ```
 
-If you change the drawings, add a short note about what you changed. See the maps in use
-at [setpos.gg](https://setpos.gg). For a correction, open an issue with the map name and
-a screenshot of the area.
+That's it: no licence link or change notes needed. The files are [CC BY 4.0](LICENSE), and as
+the licensor we waive everything in it beyond that one credit line.
 
-The images, manifest and download table are generated from the same source as the site.
-The PNGs use lossless compression; the SVGs contain no embedded raster images or editor notes.
+Found a mistake? Open an issue with the map name and a screenshot of the area. Everything here
+is generated from the same drawings setpos.gg uses, so fixes reach both.
 
 Counter-Strike 2 is a trademark of Valve Corporation. Not affiliated with Valve.
