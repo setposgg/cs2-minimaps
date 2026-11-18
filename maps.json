@@ -188,5 +188,32 @@
         }
       }
     }
+  },
+  "cobblestone": {
+    "name": "Cobblestone",
+    "url": "https://setpos.gg/cobblestone/spawns",
+    "calibration": {
+      "posX": -3615,
+      "posY": 2712,
+      "scale": 4.724792,
+      "radarSize": 1024
+    },
+    "files": {
+      "preview": "maps/cobblestone/cobblestone-preview.png",
+      "dark": {
+        "svg": "maps/cobblestone/cobblestone.svg",
+        "png": {
+          "1024": "maps/cobblestone/cobblestone-1024.png",
+          "2048": "maps/cobblestone/cobblestone-2048.png"
+        }
+      },
+      "light": {
+        "svg": "maps/cobblestone/cobblestone-light.svg",
+        "png": {
+          "1024": "maps/cobblestone/cobblestone-light-1024.png",
+          "2048": "maps/cobblestone/cobblestone-light-2048.png"
+        }
+      }
+    }
   }
 }

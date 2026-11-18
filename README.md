@@ -1,11 +1,11 @@
 # CS2 minimaps
 
 Vector minimaps drawn for [setpos.gg](https://setpos.gg), a Counter-Strike 2 lineup site.
-Seven maps, each in dark and light colours, with transparent SVGs and 1024 / 2048 px PNGs.
+Eight maps, each in dark and light colours, with transparent SVGs and 1024 / 2048 px PNGs.
 Use them in a demo viewer, a match dashboard, a guide, or anything else that needs a map.
 
 <!-- generated:preview -->
-![Seven CS2 minimaps, each shown in dark and light colours](preview.png)
+![8 CS2 minimaps, each shown in dark and light colours](preview.png)
 <!-- /generated:preview -->
 
 Each pair shows dark on the left and light on the right. The drawings simplify cover and
@@ -29,6 +29,7 @@ a light surface. The previews include a background so both versions stay readabl
 | [Ancient](https://setpos.gg/ancient) | <img src="maps/ancient/ancient-preview.png" width="224" alt="Ancient minimap in dark and light colours"> | [SVG](maps/ancient/ancient.svg) · [1024 PNG](maps/ancient/ancient-1024.png) · [2048 PNG](maps/ancient/ancient-2048.png) | [SVG](maps/ancient/ancient-light.svg) · [1024 PNG](maps/ancient/ancient-light-1024.png) · [2048 PNG](maps/ancient/ancient-light-2048.png) |
 | [Nuke (upper)](https://setpos.gg/nuke) | <img src="maps/nuke/nuke-preview.png" width="224" alt="Nuke minimap in dark and light colours"> | [SVG](maps/nuke/nuke.svg) · [1024 PNG](maps/nuke/nuke-1024.png) · [2048 PNG](maps/nuke/nuke-2048.png) | [SVG](maps/nuke/nuke-light.svg) · [1024 PNG](maps/nuke/nuke-light-1024.png) · [2048 PNG](maps/nuke/nuke-light-2048.png) |
 | [Cache](https://setpos.gg/cache) | <img src="maps/cache/cache-preview.png" width="224" alt="Cache minimap in dark and light colours"> | [SVG](maps/cache/cache.svg) · [1024 PNG](maps/cache/cache-1024.png) · [2048 PNG](maps/cache/cache-2048.png) | [SVG](maps/cache/cache-light.svg) · [1024 PNG](maps/cache/cache-light-1024.png) · [2048 PNG](maps/cache/cache-light-2048.png) |
+| [Cobblestone](https://setpos.gg/cobblestone/spawns) | <img src="maps/cobblestone/cobblestone-preview.png" width="224" alt="Cobblestone minimap in dark and light colours"> | [SVG](maps/cobblestone/cobblestone.svg) · [1024 PNG](maps/cobblestone/cobblestone-1024.png) · [2048 PNG](maps/cobblestone/cobblestone-2048.png) | [SVG](maps/cobblestone/cobblestone-light.svg) · [1024 PNG](maps/cobblestone/cobblestone-light-1024.png) · [2048 PNG](maps/cobblestone/cobblestone-light-2048.png) |
 <!-- /generated:maps -->
 
 [maps.json](maps.json) has each map's display name, calibration and relative file paths.
